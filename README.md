@@ -13,6 +13,7 @@
 ## 阅读地址
 - [官网](http://化鼠斯奎拉.com)（无删减，有隐藏章节）
 - [SF轻小说](http://book.sfacg.com/Novel/229146)（有删减，无隐藏章节）
+- [轻之文库](https://www.linovel.net/book/112586.html)(有删减，无隐藏章节）
 - [Github镜像](https://github.com/SiKuiLa/Bully-s-Love)（无删减，无隐藏章节）
 
 ## 书友群
